@@ -1,0 +1,11 @@
+.drop {
+    position: relative;
+    padding: 1rem;
+    display: flex;
+}
+.drop:hover > img {
+    background: linear-gradient(90deg,#AF6CAA,#282E68)
+}
+.drop:hover > div {
+    display: block;
+}

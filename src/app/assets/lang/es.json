@@ -1,0 +1,78 @@
+{
+    "links": {
+        "about": "Acerca de",
+        "services": "Servicios",
+        "contact": "Contáctenos",
+        "my": "Mi Proyecto",
+        "PrivacyPolicy": "Política de Privacidad",
+        "CookiesPolicy": "Política de Cookies"
+    },
+    "authbox":{
+        "loginin":"Iniciar sesión",
+        "logininsub":"Inicie sesión con los datos que le enviamos",
+        "email":"Correo electrónico",
+        "password":"Contraseña",
+        "submit":"Ingresar",
+        "lost":"¿Olvidó su contraseña?",
+        "access":"¿Su primer acceso?"
+    },
+    "Header": {
+        "sub": "Somos Digitales",
+        "title":"Desarrolladores"
+    },
+    "load": "Cargando",
+    "about": {
+        "title":"Acerca de",
+        "text1": "Desarrollamos estrategias digitales, productos y servicios.",
+        "text2": {
+            "s1":"Oroz.global",
+            "s2":"es una agencia creativa de desarrollo web, especializada en backend, frontend, experiencia y diseño de usuario, infraestructura, SEO y seguridad."
+        }
+    
+    },
+
+    "brands": {
+        "title":"¡Quién confía!"
+    },
+    "services": {
+        "template": {
+            "degrade": { "colors": ["#AF6CAA", "#282E68"], "deg": "120deg" },
+            "boxcor": "#ffffff",
+            "boxborder": "#EDECE8",
+            "titlecolor": "#37313C",
+            "subcolor": "#9E99A8"
+        },
+        "boxes": [
+            {
+            "title": "IDEA",
+            "subtitle": "La chispa de la innovación que impulsa el progreso.",
+            "img": "/icons/solution.png"
+        },
+        {
+            "title": "DESARROLLO",
+            "subtitle": "Transformar ideas en realidad tangible.",
+            "img": "/icons/devops.png"
+        },
+        {
+            "title": "ESTRATEGIA",
+            "subtitle": "Planificación deliberada para lograr objetivos.",
+            "img": "/icons/growth.png"
+        },
+        {
+            "title": "CRECIMIENTO",
+            "subtitle": "Resultado medible de una ejecución exitosa.",
+            "img": "/icons/goal.png"
+        }
+        ],
+        "h2":"¿Qué hacemos?",
+        "content": "Somos una empresa en crecimiento que crea proyectos web desde cero y los eleva al patrón de visitantes más alto posible. Siempre tenemos en cuenta la escalabilidad y los estándares de seguridad en cada proyecto que creamos y gestionamos, garantizando así el más alto nivel de excelencia."
+     },
+     "rodape":{
+        "text": "Acelerando marcas para lograr más resultados con estrategias optimizadas.",
+        "metting": {
+            "s1":"para ir a una ",
+            "s2":"reunión"
+        },
+        "copyright":"© 2023 Oroz.global Todos los derechos reservados"
+    }
+}

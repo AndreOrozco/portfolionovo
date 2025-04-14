@@ -1,0 +1,79 @@
+{
+    "links": {
+        "about": "Sobre",
+        "services": "Serviços",
+        "contact": "Fale conosco",
+        "my": "Meu Projeto",
+        "PrivacyPolicy": "Privacy Policy",
+        "CookiesPolicy": "Cookies Policy"
+
+    },
+    "authbox":{
+        "loginin":"Log In",
+        "logininsub":"Log in with the data we sent you",
+        "email":"Email",
+        "password":"Password",
+        "submit":"Enter",
+        "lost":"Lost your password?",
+        "access":"Lost your password?"
+    },
+    "Header": {
+        "sub": "Somos Digitais",
+        "title":"Desenvolvedores"
+    },
+    "about": {
+        "title":"Sobre",
+        "text1": "Desenvolvemos estratégias, produtos e serviços digitais.",
+        "text2": {
+            "s1":"Oroz.global",
+            "s2":"é uma agência criativa de desenvolvimento Web, especializada em back-end, front-end, experiência do usuário e interface do usuário, infraestrutura, SEO e segurança."
+        }
+    },
+    "brands": {
+        "title":"Quem acredita em nosso trabalho!"
+    },
+    "services": {
+        "template": {
+            "degrade": { "colors": ["#AF6CAA", "#282E68"], "deg": "120deg" },
+            "boxcor": "#ffffff",
+            "boxborder": "#EDECE8",
+            "titlecolor": "#37313C",
+            "subcolor": "#9E99A8"
+        },
+        "boxes": [
+            {
+            "title": "IDEIA",
+            "subtitle": "A faísca da inovação que impulsiona o progresso.",
+            "img": "/icons/solution.png"
+        },
+        {
+            "title": "DESENVOLVIMENTO",
+            "subtitle": "Transformando ideias em realidade tangível.",
+            "img": "/icons/devops.png"
+        },
+        {
+            "title": "ESTRATÉGIA",
+            "subtitle": "Planejamento deliberado para alcançar metas.",
+            "img": "/icons/growth.png"
+        },
+        {
+            "title": "CRESCIMENTO",
+            "subtitle": "Resultado mensurável da execução bem-sucedida.",
+            "img": "/icons/goal.png"
+        }
+        ],
+        "h2":"O que nós fazemos?        ",
+        "content": "Somos uma empresa em crescimento, que cria projetos web do zero e os eleva ao mais alto padrão de visitantes possível. Levamos sempre em consideração padrões de escalabilidade e segurança em todos os projetos que criamos e gerenciamos, garantindo assim o mais alto nível de excelência."
+     },
+     "load": "Carregando",
+     "rodape":{
+        "text": "Acelerando marcas para alcançar mais resultados com estratégias otimizadas.",
+        "metting": {
+            "s1":"Agende uma ",
+            "s2":"conversa"
+        },
+
+        "copyright":"© 2023 Oroz.global Todos os direitos reservados."
+    }
+
+}

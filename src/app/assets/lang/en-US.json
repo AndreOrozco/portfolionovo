@@ -1,0 +1,79 @@
+{
+    "links": {
+        "about": "About",
+        "services": "Services",
+        "contact": "Contact Us",
+        "my": "My Project",
+        "PrivacyPolicy": "Privacy Policy",
+        "CookiesPolicy": "Cookies Policy"
+    },
+    "authbox":{
+        "loginin":"Log In",
+        "logininsub":"Log in with the data we sent you",
+        "email":"Email",
+        "password":"Password",
+        "submit":"Enter",
+        "lost":"Lost your password?",
+        "access":"Your first access?"
+    },
+    "Header": {
+        "sub": "We are Digital",
+        "title":"Developers"
+    },
+    "about": {
+        "title":"About",
+        "text1": "We develop digital strategies, products and services.",
+        "text2": {
+            "s1":"Oroz.global",
+            "s2":"is a creative Web development agency,specialized in back-end, front-end, User experience & User interface, infrastructure, SEO and Security."
+        }
+    
+    },
+    "load": "Loading",
+    "brands": {
+        "title":"Who trust!"
+    },
+    "services": {
+        "template": {
+            "degrade": { "colors": ["#AF6CAA", "#282E68"], "deg": "120deg" },
+            "boxcor": "#ffffff",
+            "boxborder": "#EDECE8",
+            "titlecolor": "#37313C",
+            "subcolor": "#9E99A8"
+        },
+        "boxes": [
+            {
+            "title": "IDEA",
+            "subtitle": "The spark of innovation that drives progress.",
+            "img": "/icons/solution.png"
+        },
+        {
+            "title": "DEVELOPMENT",
+            "subtitle": "Transforming ideas into tangible reality.",
+            "img": "/icons/devops.png"
+        },
+        {
+            "title": "STRATEGY          ",
+            "subtitle": "Deliberate planning for goal achievement.",
+            "img": "/icons/growth.png"
+        },
+        {
+            "title": "GROWTH",
+            "subtitle": "Measurable outcome of successful execution.",
+            "img": "/icons/goal.png"
+        }
+        ],
+        "h2":"What we do?",
+        "content": "We are a growing company, that creates web projects from scratch, and elevates them to the highest possible visitor pattern. We always take into account scalability and security standards in every project we create and manage, thus ensuring the highest level of excellence."
+     },
+     "rodape":{
+        "text": "Accelerating brands to achieve more results with optimized strategies.",
+        "metting": {
+            "s1":"to go a ",
+            "s2":"meeting"
+        },
+
+        "copyright":"© 2023 Oroz.global All rights reserved"
+    }
+
+}
